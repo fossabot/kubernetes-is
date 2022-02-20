@@ -4,6 +4,7 @@
 * A clustered deployment of WSO2 Identity Server
 
 ![A clustered deployment WSO2 Identity Server](is/is.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDilanUA%2Fkubernetes-is.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDilanUA%2Fkubernetes-is?ref=badge_shield)
 
 
 ## Deploy Kubernetes resources
@@ -202,3 +203,7 @@ volumes:
 ```
 
 **[9] Deploy the Kubernetes resources as defined in section **Quick Start Guide** for a clustered deployment of WSO2 Identity Server.**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDilanUA%2Fkubernetes-is.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDilanUA%2Fkubernetes-is?ref=badge_large)
